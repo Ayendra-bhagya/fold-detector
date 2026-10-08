@@ -18,7 +18,7 @@
 
 After deployment, Vercel will provide an HTTPS URL such as:
 
-https://your-project.vercel.app/
+https://edp-sooty-six.vercel.app
 
 Open that URL in a Web Bluetooth compatible browser, normally Chrome or Edge.
 
